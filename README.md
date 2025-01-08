@@ -6,6 +6,6 @@
 <a href="https://x.com/bluemaster100/status/1867606151149351388"><b>Estat-LLMs</b> - LLMs programando R (Parte II): Método Monte Carlo estimando probabilidade</a></br>
 <a href="https://x.com/bluemaster100/status/1863017593356832802"><b>Estat-LLMs</b> - LLMs programando R (Parte I): Regressão Múltipla</a></br>
 <a href="https://x.com/bluemaster100/status/1861805840052719859"><b>Estat</b> - Causalidade com dados não-experimentais</a></br>
-<a href="https://x.com/bluemaster100/status/1861759642759573872"<b>Mat</b> - Como matemáticos desvendaram o valor de opções e derivativos (Black and Scholles) </a></br>
+<a href="https://x.com/bluemaster100/status/1861759642759573872"><b>Mat</b> - Como matemáticos desvendaram o valor de opções e derivativos (Black and Scholles) </a></br>
 
 
